@@ -2,7 +2,7 @@
   <img src="https://github.com/jkiranj7028.png" width="140" style="border-radius:50%" alt="Kiran Kumar - Profile"/>
 </p>
 
-<h1 align="center">Hi, I'm Kiran Kumar 👋</h1>
+<h1 align="center">Hi, I'm Kiran Kumar J 👋</h1>
 <h3 align="center">DevOps Engineer | Cloud Automation | Open Source Advocate</h3>
 
 ---
